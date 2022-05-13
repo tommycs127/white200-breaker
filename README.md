@@ -1,7 +1,5 @@
 # white200-breaker
-A few-line cheat script for people who have difficult time playing "white200".
-
-white200: https://tumoiyorozu.github.io/white200/
+A few-line cheat script for people who have difficult time playing [white200](https://tumoiyorozu.github.io/white200/).
 
 Source code of white200: https://github.com/TumoiYorozu/white200
 
