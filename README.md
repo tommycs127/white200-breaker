@@ -1,7 +1,5 @@
 # white200-breaker
-A few-line cheat script for people who have difficult time playing [white200](https://tumoiyorozu.github.io/white200/).
-
-Source code of white200: https://github.com/TumoiYorozu/white200
+A few-line cheat script for people who have difficult time playing [white200](https://tumoiyorozu.github.io/white200/) ([source code](https://github.com/TumoiYorozu/white200)).
 
 # How to use?
 1. Go to the website, but don't start the game.
